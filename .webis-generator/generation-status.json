@@ -1,8 +1,11 @@
 {
-  "projectName": "ש-י-סחר-בנשק-7926",
-  "businessName": "ש.י סחר בנשק",
-  "created": "2025-11-10T12:32:10.116Z",
-  "status": "initialized",
-  "progress": 0,
-  "components": []
+  "timestamp": "2025-11-10T12:32:31.014Z",
+  "status": {
+    "totalComponents": 0,
+    "completedComponents": 0,
+    "failedComponents": 0,
+    "progress": 0
+  },
+  "components": [],
+  "repoName": "webis-site-sh-y-schr-bnshk-1762716788402"
 }
