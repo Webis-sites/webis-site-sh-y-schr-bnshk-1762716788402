@@ -20,7 +20,7 @@ export default function RootLayout({
     <html lang="he" dir="rtl">
       <head>
         <link rel="manifest" href="/manifest.json" />
-        <meta name="theme-color" content="#141414" />
+        <meta name="theme-color" content="#121212" />
       </head>
       <body className={inter.className}>
         <div className="flex min-h-screen flex-col">
