@@ -1,11 +1,19 @@
 {
-  "timestamp": "2025-11-10T12:32:31.014Z",
+  "timestamp": "2025-11-10T12:33:42.889Z",
   "status": {
     "totalComponents": 0,
     "completedComponents": 0,
-    "failedComponents": 0,
+    "failedComponents": 1,
     "progress": 0
   },
-  "components": [],
+  "components": [
+    {
+      "name": "Site Plan",
+      "type": "plan",
+      "status": "failed",
+      "description": "Creating site plan",
+      "error": "שגיאה בשירות Anthropic: No object generated: response did not match schema."
+    }
+  ],
   "repoName": "webis-site-sh-y-schr-bnshk-1762716788402"
 }
