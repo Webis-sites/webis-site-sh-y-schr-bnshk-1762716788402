@@ -1,10 +1,10 @@
 {
-  "timestamp": "2025-11-10T13:44:27.379Z",
+  "projectDir": "ש-י-סחר-בנשק-1222",
   "status": {
     "totalComponents": 12,
-    "completedComponents": 11,
+    "completedComponents": 12,
     "failedComponents": 0,
-    "progress": 92
+    "progress": 100
   },
   "components": [
     {
@@ -76,9 +76,14 @@
     {
       "name": "FooterSection",
       "type": "footer",
-      "status": "pending",
+      "status": "completed",
       "description": "Professional footer with legal links, contact info, and compliance statements"
     }
   ],
-  "repoName": "webis-site-sh-y-schr-bnshk-1762716788402"
+  "tokenUsage": {
+    "totalInputTokens": 28936,
+    "totalOutputTokens": 35712,
+    "totalTokens": 64648,
+    "requests": 11
+  }
 }
