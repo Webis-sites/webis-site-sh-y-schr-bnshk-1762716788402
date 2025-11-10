@@ -9,6 +9,7 @@ import PortfolioSection from '@/components/PortfolioSection';
 import ComplianceSection from '@/components/ComplianceSection';
 import TestimonialsSection from '@/components/TestimonialsSection';
 import FAQSection from '@/components/FAQSection';
+import BookingSection from '@/components/BookingSection';
 
 export default function HomePage() {
   return (
@@ -24,6 +25,7 @@ export default function HomePage() {
         <ComplianceSection />
         <TestimonialsSection />
         <FAQSection />
+        <BookingSection />
       </main>
     </>
   );
