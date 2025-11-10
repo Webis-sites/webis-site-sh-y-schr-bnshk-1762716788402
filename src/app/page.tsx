@@ -6,6 +6,7 @@ import AboutSection from '@/components/AboutSection';
 import ServicesSection from '@/components/ServicesSection';
 import ProductsSection from '@/components/ProductsSection';
 import PortfolioSection from '@/components/PortfolioSection';
+import ComplianceSection from '@/components/ComplianceSection';
 
 export default function HomePage() {
   return (
@@ -18,6 +19,7 @@ export default function HomePage() {
         <ServicesSection />
         <ProductsSection />
         <PortfolioSection />
+        <ComplianceSection />
       </main>
     </>
   );
