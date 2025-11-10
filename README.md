@@ -27,7 +27,7 @@ A modern website for ש.י סחר בנשק, generated with webis-generator.
 
 ## Generation Information
 
-- Generated on: 11/10/2025, 12:32:10 PM
+- Generated on: 11/10/2025, 1:27:04 PM
 - Business Name: ש.י סחר בנשק
 - Business Type: service
-- Industry: נשק
+- Industry: ש.י חברת נשק
