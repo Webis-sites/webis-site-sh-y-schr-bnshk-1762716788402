@@ -9,7 +9,7 @@
       theme: {
         extend: {
           colors: {
-            primary: '#141414',
+            primary: '#121212',
             secondary: '#a1a1a1'
           },
           backgroundImage: {
