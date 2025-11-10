@@ -8,6 +8,7 @@ import ProductsSection from '@/components/ProductsSection';
 import PortfolioSection from '@/components/PortfolioSection';
 import ComplianceSection from '@/components/ComplianceSection';
 import TestimonialsSection from '@/components/TestimonialsSection';
+import FAQSection from '@/components/FAQSection';
 
 export default function HomePage() {
   return (
@@ -22,6 +23,7 @@ export default function HomePage() {
         <PortfolioSection />
         <ComplianceSection />
         <TestimonialsSection />
+        <FAQSection />
       </main>
     </>
   );
