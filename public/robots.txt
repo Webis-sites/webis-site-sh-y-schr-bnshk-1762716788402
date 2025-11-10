@@ -1,0 +1,7 @@
+
+    # robots.txt for ש.י סחר בנשק
+    User-agent: *
+    Allow: /
+
+    # Sitemap
+    Sitemap: https://ש.י-סחר-בנשק.com/sitemap.xml
